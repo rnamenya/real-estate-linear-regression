@@ -53,7 +53,6 @@ Click below to view a full PowerPoint presentation that explains the project bac
 ## 🧠 Author
 
 **Rosemary Namenya**  
-Graduate Student – MS in Applied Analytics  
-University of North Texas (UNT)
+
 
 
